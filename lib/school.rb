@@ -20,5 +20,6 @@ end
 end
 def sort()
   roster.sort do |name|
+  end
 end
 end
