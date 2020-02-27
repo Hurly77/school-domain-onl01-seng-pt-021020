@@ -13,8 +13,10 @@ def add_student(student, level)
 
 def grade(grade)
   roster.each do |x, y|
-      if x == grade
+    if x == 9
+
 end
 end
 end
+def sort
 end
