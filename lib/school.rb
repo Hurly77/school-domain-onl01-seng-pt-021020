@@ -20,7 +20,7 @@ end
 end
 def sort
   nu_hash = {}
-  roster.each do |a, b| nu_hash[a] = y.sort
+  roster.each do |a, b| nu_hash[a] = b.sort
 end
 nu_hash
 end
