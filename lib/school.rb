@@ -21,7 +21,6 @@ end
 def sort
   nu_hash = {}
   roster.sort do |a, b|
-     end
 end
 end
 end
