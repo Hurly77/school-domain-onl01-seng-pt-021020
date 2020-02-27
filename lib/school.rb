@@ -12,9 +12,9 @@ def add_student(student, level)
     end
 
 def grade(grade)
-  roster.each do |x, y|
+  roster.map do |x, y|
+    grade[9]
 
-end
 end
 end
 def sort
