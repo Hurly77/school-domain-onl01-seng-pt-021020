@@ -19,7 +19,7 @@ def grade(grade)
 end
 end
 def sort()
-  roster.sort do |name|
+  roster.sort do |a, b|
   end
 end
 end
