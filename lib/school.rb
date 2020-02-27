@@ -20,6 +20,7 @@ end
 end
 def sort()
   roster.sort do |a, b|
-  end
+    if a<==>b
+     end
 end
 end
