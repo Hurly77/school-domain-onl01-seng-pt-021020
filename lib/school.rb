@@ -13,7 +13,7 @@ def add_student(student, level)
 
 def grade(grade)
   roster.map do |x, y|
-    grade[9]
+    grade
 
 end
 end
