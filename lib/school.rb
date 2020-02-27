@@ -22,5 +22,6 @@ def sort
   nu_hash = {}
   roster.each do |a, b| nu_hash[x] = y.sort
 end
+nu_hash
 end
 end
