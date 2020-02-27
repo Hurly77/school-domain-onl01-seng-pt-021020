@@ -13,7 +13,7 @@ def add_student(student, level)
 
 def grade(grade)
   roster.each do |level, name|
-    if level === grade
+    if level[9] === grade
     end
 end
 end
