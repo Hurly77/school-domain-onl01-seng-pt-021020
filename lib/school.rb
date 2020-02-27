@@ -21,7 +21,7 @@ end
 def sort()
   nu_hash = {}
   roster.sort do |a, b|
-    if a <=> b roster << nu_hash
+    if a <=> b
      end
 end
 end
