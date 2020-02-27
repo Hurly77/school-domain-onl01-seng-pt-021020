@@ -13,8 +13,7 @@ def add_student(student, level)
 
 def grade(grade)
   roster.map do |x, y|
-    grade
-
+    if x == grade
 end
 end
 def sort
