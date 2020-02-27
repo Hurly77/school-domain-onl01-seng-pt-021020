@@ -16,4 +16,3 @@ def grade(grade)
       if x == grade
 end
 end
-
