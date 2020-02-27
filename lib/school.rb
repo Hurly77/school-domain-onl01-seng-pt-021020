@@ -19,7 +19,7 @@ def grade(grade)
 end
 end
 def sort()
-  nu_hash = []
+  nu_hash = {}
   roster.sort do |a, b|
     if a <=> b << nu_hash
      end
